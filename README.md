@@ -12,7 +12,9 @@ app's source is in a private repository during the hackathon.
 1. On your Android phone (Android 7 or later), open [frenlock.fun/android](https://frenlock.fun/android). It
    downloads `frenlock.apk` from the [latest release](../../releases/latest).
 2. Open the file and allow installs from your browser when Android asks.
-3. Sign in with your email. The app creates your wallet, and Get test money fills it with devnet test tokens.
+3. Sign in with your email (the app creates your wallet), or tap Connect a wallet to sign in with your own
+   wallet app set to devnet, through Mobile Wallet Adapter (in Solflare, turn on "I trust this site"). Then
+   Get test money fills it with devnet test tokens.
 
 On a Xiaomi, Redmi or POCO phone, turn on Autostart for Frenlock (Settings → Apps → Permissions → Background
 autostart), or a friend's request waits until you open the app. The app shows the way too.
